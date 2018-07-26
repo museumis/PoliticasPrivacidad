@@ -1,0 +1,5 @@
+Esta aplicación necesita permisos de cámara para complementar información necesaria de funcionalidad. 
+
+Se informa en este documento que todo tipo de datos que puedan ser recopilados por la aplicación, no son tratados de ninguna manera.
+
+Un cordial saludo, Museumis.
