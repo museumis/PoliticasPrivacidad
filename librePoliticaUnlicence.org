@@ -1,0 +1,10 @@
+
+El software se proporciona "tal cual", sin garantía de ningún tipo,
+expreso o implícito, incluyendo pero no limitado a las garantías de
+comerciabilidad, idoneidad para un fin determinado y no violación.
+en ningún caso los autores serán responsables de cualquier reclamación, daños o
+otra responsabilidad, ya sea en una acción de contrato, agravio o de otro tipo,
+derivados de o en conexión con el software o el uso o
+otras operaciones en el software.
+
+para obtener más información, consulte <https://unlicense.org>
